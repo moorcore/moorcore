@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max.
 - 👀 I’m interested in programming, game development, writing music.
-- 🌱 I’m currently learning Java, C#, SQL, PostgreSQL, Spring, Hibernate, HTML, CSS.
+- 🌱 I’m currently learning Java, MySQL, Spring, Hibernate, HTML, CSS.
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me - Telegram: boykin_m
 
