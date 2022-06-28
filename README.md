@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Max.
 - 👀 I’m interested in programming, game development, writing music, sports and travelling.
-- 🌱 I’m currently learning C# and Unity. Also I learned Java, SQL, .NET, ASP.NET and other interesting features.
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me - Telegram: boykin_m
 
